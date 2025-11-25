@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:profile_demo_app/helpers/colorhelper.dart';
 import 'package:profile_demo_app/helpers/commonfun.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
